@@ -1,0 +1,21 @@
+# Compiled C/C++ programs
+*.exe
+*.o
+*.obj
+*.out
+
+# Build folders
+build/
+dist/
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
+Desktop.ini
